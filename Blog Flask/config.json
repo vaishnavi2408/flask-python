@@ -1,0 +1,25 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/blog_flask",
+    "prod_uri": "mysql://root:@localhost/blog_flask",
+
+    "instagram_url": "https://www.instagram.com/vaishnavi_2406",
+    "linkedin_url": "https://www.linkedin.com/public-profile/in/vaishnavi-jagtap-0080231bb",
+    "github_url": "https://www.github.com/vaishnavi2408",
+
+    "blog_name": "Coding Thunder",
+    "tagline": "A Flask Blog-site liked by Boootstrap",
+    "about_text": "Hi my name is VJ and i create awesome programs and I am a good naughty girl",
+    "no_of_posts": 4,
+
+    "gmail_user": "vaishnavij2000@gmail.com",
+    "gmail_password": "#skull@candy2412",
+
+    "admin_username": "admin",
+    "admin_password": "admin",
+
+    "upload_location": "C:\\Users\\Vaishnavi\\Desktop\\VS code\\Flask\\static\\img"
+  }
+}
