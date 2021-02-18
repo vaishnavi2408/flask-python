@@ -14,12 +14,9 @@
     "about_text": "Hi my name is VJ and i create awesome programs and I am a good naughty girl",
     "no_of_posts": 4,
 
-    "gmail_user": "vaishnavij2000@gmail.com",
-    "gmail_password": "#skull@candy2412",
-
     "admin_username": "admin",
     "admin_password": "admin",
 
-    "upload_location": "C:\\Users\\Vaishnavi\\Desktop\\VS code\\Flask\\static\\img"
+    "upload_location": "C:\\Users\\Username\\Desktop\\Flask\\static\\img"
   }
 }
